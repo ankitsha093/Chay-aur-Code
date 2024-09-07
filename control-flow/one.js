@@ -48,3 +48,6 @@ if(Object.keys(myObj).length===0){
 else{
     console.log("array is not empty")
 }
+
+
+// false == 0, false == "", 0==""  // all these are true
